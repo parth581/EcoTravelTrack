@@ -92,7 +92,7 @@ Here are some simple yet effective ways to reduce your carbon footprint while tr
 - 🚶‍♂️ **Explore on foot or bike** — Whenever possible, walk or cycle to nearby attractions.
 - 🌳 **Offset your emissions** — Invest in carbon offset programs for flights or long-distance travel.
 
-
+---
 ## 📦 Installation Guide
 
 ### 1️⃣ Clone the Repository
